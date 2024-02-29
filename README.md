@@ -4,6 +4,6 @@ Camagru is the first web project outside of the common-core curriculum, that aim
 The main purpose for this project was to teach the basic fundamentals of web development using CSS, HTML, JS with PHP acting as the backend / server side language.
 
 # Project Insight
-## Project Brief
-## Project Markingsheet
-## Project stack / Technologies
+### Project Brief
+### Project Markingsheet
+### Project stack / Technologies
